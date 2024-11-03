@@ -2,8 +2,9 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
 use App\Models\Author;
+use Illuminate\Http\Request;
+
 
 class AuthorController extends Controller
 {
